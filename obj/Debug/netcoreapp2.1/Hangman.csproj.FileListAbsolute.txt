@@ -1,0 +1,12 @@
+/Users/maj/Documents/code/c_sharp/Hangman/obj/Debug/netcoreapp2.1/Hangman.csprojAssemblyReference.cache
+/Users/maj/Documents/code/c_sharp/Hangman/obj/Debug/netcoreapp2.1/Hangman.csproj.CoreCompileInputs.cache
+/Users/maj/Documents/code/c_sharp/Hangman/obj/Debug/netcoreapp2.1/Hangman.AssemblyInfoInputs.cache
+/Users/maj/Documents/code/c_sharp/Hangman/obj/Debug/netcoreapp2.1/Hangman.AssemblyInfo.cs
+/Users/maj/Documents/code/c_sharp/Hangman/bin/Debug/netcoreapp2.1/Hangman.deps.json
+/Users/maj/Documents/code/c_sharp/Hangman/bin/Debug/netcoreapp2.1/Hangman.runtimeconfig.json
+/Users/maj/Documents/code/c_sharp/Hangman/bin/Debug/netcoreapp2.1/Hangman.runtimeconfig.dev.json
+/Users/maj/Documents/code/c_sharp/Hangman/bin/Debug/netcoreapp2.1/Hangman.dll
+/Users/maj/Documents/code/c_sharp/Hangman/bin/Debug/netcoreapp2.1/Hangman.pdb
+/Users/maj/Documents/code/c_sharp/Hangman/obj/Debug/netcoreapp2.1/Hangman.dll
+/Users/maj/Documents/code/c_sharp/Hangman/obj/Debug/netcoreapp2.1/Hangman.pdb
+/Users/maj/Documents/code/c_sharp/Hangman/bin/Debug/netcoreapp2.1/Hangman.dll.config
